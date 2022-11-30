@@ -6,12 +6,15 @@
     "cheerio": "^1.0.0-rc.12",
     "date-utils": "^1.2.21",
     "discord.js": "^14.3.0",
+    "glob": "^8.0.3",
     "moment": "^2.29.1",
     "moment-timezone": "^0.5.34",
     "mongoose": "^6.1.5",
+    "node-fetch": "^3.3.0",
     "node-schedule": "^2.1.0",
+    "request": "^2.88.2",
     "sharp": "^0.30.6",
-    "sqlite3": "^5.0.2",
+    "sqlite3": "^5.1.2",
     "tesseract.js": "^2.1.5"
   }
 }

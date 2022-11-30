@@ -1,6 +1,5 @@
 const { CommandInteraction, Client,ApplicationCommandType, ApplicationCommandOptionType,EmbedBuilder} = require("discord.js");
 const mongoose = require("mongoose");
-const { Database } = require("../../config.json")
 
 module.exports = {
     name: "guildMemberAdd",
