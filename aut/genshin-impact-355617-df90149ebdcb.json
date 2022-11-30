@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "genshin-impact-355617",
+  "private_key_id": "df90149ebdcb4d05da616cd35bba69ff5b35c951",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCve+wDJ3DwjB0o\nHqSFxKbRwHSTbS7+4tiKCr7B68vgj74n05W7uO/24+1h64dvXyIatAJwAvGsLGFT\nlrElVxmFJt2aofD5bxmFCTz9OElIE962LRyMWvztX1Bp3nwy9UxTkmUxIsgcA4bg\nJtb9TBOqVajircRwMbSt5OdY+sLLV93uBbR3O2vqlGCJe4ztgOdRDpIZV/U5aX9w\nPZGxg+un+DhRgY+VA5HFhowysDs5QoLgLtnmSQi1voPelfZY+42yNYclqCJt2IQu\n4tNxQ/bXTjxBmcMjPNuCkuNhVhAOXudwuDi04yQLXrE5UBlWyIlLbmOvRIvb5dBR\nxH1lxTYDAgMBAAECggEAHntwK7wWKjKsfeOUwIfAUn8TwOgeWbgd1Ry4tga3i3Js\nnY5rXAhr5n8BJRk8lWP5EJpkMgDQ6g9reJGcg9f1XuO5arrmmO1riWhpZ7L3R8Xr\n0clURC0p8jG0Ti+Pc2qYr4umeDqKeBNEwnr8rVMht1zZ0UZN8Q8xS2OPrC0i2R9I\ngusFuwqlyRgZBfYeYM6aTQUGuGZX7wCgXoV1mq+2h0qOCoJpIVHTLXKO7g6xB+p5\nvDje0LnH392NhPOPLIGYtSVtozYTg9hO5ZDv2evyAV0V7EcOn3ksnfc24wDA6ST1\n7Ah3MgcUBQq8tr6nK7zVKkfnGQtTnUN6ilvlTSJkgQKBgQDc7IjOOODXfSQ+R45B\nnLXH/Ql/fQ2j74cF+AgVES+SD8NOUHmkcJ6k2EH0deOTJ3IqrhDv4H2CskhhE3He\nHZRhRhGx3ux+KfdCZBnTKFMnJMrz8/M9RDjPy1158Sv4dy511mpeT/oCBCwj0b3/\n1IhBH7yTyg9nRcpUyWjXUQ5z+wKBgQDLWHsV9gZeA1f6uQqFRKDGjiSmujhR41QB\nrJvwHq5GAfboc3At+09qg7dzkDzBd48u2QHH/D8vzbqOrZzlUYN7EVTiNv9+Q0EV\nOW2rTpy1fgCCj4/4UlZZRcjSc2kmTMIBUmE1umcbo49XlKZ5s9Bc4Rnxsg+eXdGM\nIdloWfufmQKBgQDFJ7m2//93j1Bm3AjR+P4o6WIuifVAVaRT6VOdKWcgnDyZiSvl\nWjPZvLyvYv2i91LlT84BpH+dwWjiaS33IMKoRJXJ/L1koiLs9tQtIxGCH02XhB+Q\nj2970WssRdQNup6VvrHSVOEyJ3MUzDsZMhwesiniYjJ44Ul9fPi5HrcdPQKBgQDE\nV7sBiXy8ah4ZSXKPG6TiE33wPv8Ckq4ar8AiKn27u0ndSRmYTIByKJyKSUtgw0DN\ny1uc7kNUtSDdg2VrRzndKu77Pn+UOvwssjbiohVOaUu0xUoOS/J0YJ14F1gAUz1A\naXrTlhjY5yURO8dC3AzkobWbWoMaNxyOYmC6EaiUgQKBgQCgRH8FYUxvi8CQya8N\nVEddfF/mM/MHWaCbhyTRLDpMBHg3Wsg802VB9I0aZigp/BjDzemlRhuH6wcz1yE8\n0jsRw+8I92t9hW9XxwygZ2WiOrwkEraE6MqAIlW/iDdmFduj1pIe4tb5yIoZpQWM\nqkc2lDgVoiYXs7ImG76C1R2XFg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "genshin-bot@genshin-impact-355617.iam.gserviceaccount.com",
+  "client_id": "109470568553862563843",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/genshin-bot%40genshin-impact-355617.iam.gserviceaccount.com"
+}
