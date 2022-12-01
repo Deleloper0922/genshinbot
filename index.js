@@ -6,4 +6,11 @@ client.commands = new Collection()
 require("./Handlers/Events")(client);
 require("./Handlers/Commands")(client);
 
+var http = require('http');  
+
+http.createServer(function (req, res) {   
+  res.write("I'm alive");   
+  res.end(); 
+}).listen(8080);
+
 client.login(token)
